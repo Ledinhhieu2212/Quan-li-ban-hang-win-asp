@@ -1,1 +1,3 @@
-"# Quan-li-ban-hang-win-asp" 
+# **Quản lí bán hàng C# window **
+
+![image info](image.png)
